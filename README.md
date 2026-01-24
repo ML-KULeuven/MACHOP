@@ -1,5 +1,8 @@
 # Experiment Runners: LGP, Sudoku, and Real User Training
 
+Repository for the paper: [Preference Elicitation for Step-wise Explanations in Logic puzzles](https://arxiv.org/abs/2511.10436)
+
+
 This repository contains scripts to run experiments for learning preferences in two domains: LGP (Logic Grid Puzzles) and Sudoku. The main scripts for running these experiments are:
 
 - `lgp_exp_runner.py` (for oracles)  
