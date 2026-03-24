@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1095802155.svg)](https://doi.org/10.5281/zenodo.19208178)
+
 # Experiment Runners: LGP, Sudoku, and Real User Training
 
 Repository for the paper: [Preference Elicitation for Step-wise Explanations in Logic puzzles](https://arxiv.org/abs/2511.10436)
